@@ -1,2 +1,4 @@
 _site/
-
+_.bundle/
+_vendor/
+Gemfile.lock
