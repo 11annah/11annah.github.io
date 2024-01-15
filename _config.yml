@@ -26,7 +26,7 @@ footer-links:
   flickr:
   github: 11annah
   instagram:
-  linkedin: https://de.linkedin.com/in/hannah-sophie-schulz-kümpel-5152811a4
+  linkedin: hannah-sophie-schulz-kümpel-5152811a4
   pinterest:
   rss: rss
   twitter: 
@@ -41,7 +41,7 @@ footer-links:
 disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-43339302-11
+google_analytics: 
 
 # For newer "GA4" analytics, use the following instead of the "UA" entry above
 #google_analytics_ga4: G-GABC1DEFG
