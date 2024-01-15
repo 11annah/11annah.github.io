@@ -1,13 +1,11 @@
 ---
-layout: page
-title: Updates
-permalink: /updates/
+layout: default
 ---
 
 <div class="posts">
   {% for post in paginator.posts %}
     <article class="post">
-      <a href="{{ site.baseurl }}/updates{{ post.url }}">
+      <a href="{{ site.baseurl }}{{ post.url }}">
         <h1>{{ post.title }}</h1>
 
         <div>
@@ -18,7 +16,7 @@ permalink: /updates/
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}/updates{{ post.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 
