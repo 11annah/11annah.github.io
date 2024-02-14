@@ -26,13 +26,13 @@ Political Science & Politics, 55(1), 102-108. doi:10.1017/S1049096521000950
 
 * Schulz-Kümpel, H. *A general framework for reporting methods in regression analysis* (2023). [64th ISI World
 Statistics Congress](https://www.isi-next.org/abstracts/submission/418/view/) - Ottawa, Canada.
-    - Slides as PDF
+    - [Slides as PDF]({{ site.url }}/files/Conferences_WSC.pdf)
 
 * Schulz-Kümpel, H. *A flexible framework for interpretable and individualized reporting of model results* (2023).
 [CEN 2023 Conference](https://cen2023.github.io/home/) - Basel, Switzerland.
-    - Slides as PDF
+    - [Slides as PDF]({{ site.url }}/files/Conferences_CEN.pdf)
 
 * Schulz-Kümpel, H. *A re-examination of inference methods for the generalization error* (2023). [Statistische
 Woche 2023](https://statistische-woche.de/en/startseite-en) - Dortmund, Germany.
-    - Slides as PDF
+    - [Slides as PDF]({{ site.url }}/files/Conferences_StatistischeWoche.pdf)
 
