@@ -29,10 +29,10 @@ Statistics Congress](https://www.isi-next.org/abstracts/submission/418/view/) - 
     - Slides as PDF
 
 * Schulz-Kümpel, H. *A flexible framework for interpretable and individualized reporting of model results* (2023).
-[CEN 2023 Conference](ttps://cen2023.github.io/home/) - Basel, Switzerland.
+[CEN 2023 Conference](https://cen2023.github.io/home/) - Basel, Switzerland.
     - Slides as PDF
 
 * Schulz-Kümpel, H. *A re-examination of inference methods for the generalization error* (2023). [Statistische
-Woche 2023](ttps://statistische-woche.de/en/startseite-en) - Dortmund, Germany.
+Woche 2023](https://statistische-woche.de/en/startseite-en) - Dortmund, Germany.
     - Slides as PDF
 
