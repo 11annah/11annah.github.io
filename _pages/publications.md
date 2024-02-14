@@ -4,6 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
+<span style="font-size:5em;">
 * Kümpel, H., & Hoffmann, S. (2022). *A formal framework for generalized reporting methods in
 parametric settings*. arXiv:2211.02621 [stat.ME]. [doi:10.48550/ARXIV.2211.02621](https://arxiv.org/abs/2211.02621)
 
@@ -19,5 +20,19 @@ of radiographic measurements*. Knee Surg Sports Traumatol Arthrosc. doi:10.1007/
 Vult Decipi, Ergo Decipiatur: Visual Communication of Uncertainty in Election Polls*. PS:
 Political Science & Politics, 55(1), 102-108. doi:10.1017/S1049096521000950
 
-## Conferences and presentations
+</span>
+
+## Conference-presentations
+
+* Schulz-Kümpel, H. *A general framework for reporting methods in regression analysis* (2023). [64th ISI World
+Statistics Congress](https://www.isi-next.org/abstracts/submission/418/view/) - Ottawa, Canada.
+    - Slides as PDF
+
+* Schulz-Kümpel, H. *A flexible framework for interpretable and individualized reporting of model results* (2023).
+CEN 2023 Conference - Basel, Switzerland.
+    - Slides as PDF
+
+* Schulz-Kümpel, H. *A re-examination of inference methods for the generalization error* (2023). Statistische
+Woche 2023 - Dortmund, Germany.
+    - Slides as PDF
 
