@@ -121,14 +121,14 @@ permalink: /cv/
 
 <div class="entry custom-container">
     <span class="fat-text">RA, </span>
-    <span class="italic-text">Department of Infectious and Tropical Medicine - LMU Klinikum</span>
+    <span class="italic-text"><a href="https://www.lmu-klinikum.de/tropeninstitut">Department of Infectious and Tropical Medicine</a></span>
     <span class="gray-italic-text">August 2020 - December 2020</span>
 </div>
 <p class="entry indented-paragraph">My responsibilities consisted of database management and data analysis for several ongoing studies, as well as editing data for visual presentation.</p>
 
 <div class="entry custom-container">
-    <span class="fat-text"> fat text</span>
-    <span class="italic-text">italic text</span>
-    <span class="gray-italic-text">gray italic text</span>
+    <span class="fat-text">TA,</span>
+    <span class="italic-text">The Programming Language R, Heidelberg University</span>
+    <span class="gray-italic-text">Winter Semester 2018/19</span>
 </div>
-<p class="entry indented-paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p class="entry indented-paragraph">Since this course was the first of its kind at our faculty, I had the opportunity to be a student as well as a teaching assistant, given my prior experiences with the programming language R. As part of the course, I developed an R-package in cooperation with a fellow TA and supervised similar projects of half of the other student groups.</p>
