@@ -26,7 +26,7 @@ permalink: /cv/
 <style>
     .custom-container {
         display: flex;
-        align-items: center;
+        align-items: left;
     }
     .custom-container .fat-text {
         font-weight: bold;
