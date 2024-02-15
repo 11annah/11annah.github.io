@@ -23,6 +23,22 @@ permalink: /cv/
     }
 </style>
 
+<style>
+    .container {
+        display: flex;
+        align-items: center;
+    }
+    
+    .fat-text, .italic-text {
+        margin-right: auto;
+    }
+
+    .gray-italic-text {
+        font-style: italic;
+        color: gray;
+    }
+</style>
+
 
 <div class="entry custom-title">
     <hr>
