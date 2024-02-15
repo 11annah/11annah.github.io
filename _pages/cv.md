@@ -60,7 +60,9 @@ permalink: /cv/
         font-size: 14px; /* You can adjust the font size to your preference */
         display: block;
         margin: -7px auto 15px;
-        padding-left: 40px; /* Adjust the value as needed for full indentation /*
+        width: 80%; /* Adjust the width as needed */
+        text-align: justify; /* Align text to justify */
+        padding: 0 20px; 
     }
 </style>
 
