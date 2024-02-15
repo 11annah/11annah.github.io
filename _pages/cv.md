@@ -25,7 +25,6 @@ permalink: /cv/
 
 <style>
     .custom-container {
-        display: flex;
         align-items: left;
     }
     .custom-container .fat-text {
@@ -38,6 +37,7 @@ permalink: /cv/
 
     .custom-container .fat-text, 
     .custom-container .italic-text {
+        display: inline-block;
         margin-right: auto;
     }
 
