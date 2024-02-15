@@ -24,16 +24,17 @@ permalink: /cv/
 </style>
 
 <style>
-    .container {
+    .custom-container {
         display: flex;
         align-items: center;
     }
     
-    .fat-text, .italic-text {
+    .custom-container .fat-text, 
+    .custom-container .italic-text {
         margin-right: auto;
     }
 
-    .gray-italic-text {
+    .custom-container .gray-italic-text {
         font-style: italic;
         color: gray;
     }
@@ -46,3 +47,8 @@ permalink: /cv/
     <hr>
 </div>
 
+<div class="entry custom-container">
+    <span class="fat-text">*fat text*</span>
+    <span class="italic-text">*italic text*</span>
+    <span class="gray-italic-text">*gray italic text*</span>
+</div>
