@@ -71,19 +71,19 @@ permalink: /cv/
     <hr>
 </div>
 <div class="entry custom-container">
-    <span class="fat-text"><pre>PhD student in Statistics,  </span>
+    <span class="fat-text">PhD student in Statistics,</span><span>  </span>
     <span class="italic-text">LMU Munich</span>
     <span class="gray-italic-text">since the summer of 2023</span>
 </div>
 
 <div class="entry custom-container">
-    <span class="fat-text"><pre>M.Sc. in Statistics,  </pre></span>
+    <span class="fat-text">M.Sc. in Statistics,</span><span>  </span>
     <span class="italic-text">LMU Munich</span>
     <span class="gray-italic-text">2020 – 2022</span>
 </div>
 
 <div class="entry custom-container">
-    <span class="fat-text"><pre>B.Sc. in Mathematics,  </pre></span>
+    <span class="fat-text">B.Sc. in Mathematics,</span><span>  </span>
     <span class="italic-text">Heidelberg University</span>
     <span class="gray-italic-text">2016 – 2020</span>
 </div>
