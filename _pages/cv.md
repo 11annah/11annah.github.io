@@ -131,21 +131,21 @@ permalink: /cv/
 
 <div class="entry custom-container">
     <span class="fat-text">TA,</span>
-    <span class="italic-text">The Programming Language R, Heidelberg University</span>
+    <span class="italic-text">The Programming Language R - <a href="https://www.uni-heidelberg.de/en/study/all-subjects/mathematics">Heidelberg University</a></span>
     <span class="gray-italic-text">Winter Semester 2018/19</span>
 </div>
 <p class="entry indented-paragraph">Since this course was the first of its kind at our faculty, I had the opportunity to be a student as well as a teaching assistant, given my prior experiences with the programming language R. As part of the course, I developed an R-package in cooperation with a fellow TA and supervised similar projects of half of the other student groups.</p>
 
 <div class="entry custom-container">
     <span class="fat-text">TA,</span>
-    <span class="italic-text">Introduction to Probability and Statistics, Heidelberg University</span>
+    <span class="italic-text">Introduction to Probability and Statistics - <a href="https://www.uni-heidelberg.de/en/study/all-subjects/mathematics">Heidelberg University</a></span>
     <span class="gray-italic-text">Winter Semester 2017/18</span>
 </div>
 <p class="entry indented-paragraph">In this role I was responsible for grading the weekly assignments of students taking the class as well as reviewing the subject matter in independently prepared lessons twice a week.</p>
 
 <div class="entry custom-container">
     <span class="fat-text">Undergraduate Researcher,</span>
-    <span class="italic-text">University of Ottawa</span>
+    <span class="italic-text"><a href="https://www.uottawa.ca/faculty-science/mathematics-statistics">University of Ottawa</a></span>
     <span class="gray-italic-text">August 2017 - October 2017</span>
 </div>
 <p class="entry indented-paragraph">During this time I had the great opportunity to assist professor Aaron Smith in his research on Maximal Markovian Couplings, specifically on graphs. Computation of the latter was done in R, allowing me to gain deeper knowledge of the Programming language.</p>
