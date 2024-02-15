@@ -132,3 +132,10 @@ permalink: /cv/
     <span class="gray-italic-text">Winter Semester 2018/19</span>
 </div>
 <p class="entry indented-paragraph">Since this course was the first of its kind at our faculty, I had the opportunity to be a student as well as a teaching assistant, given my prior experiences with the programming language R. As part of the course, I developed an R-package in cooperation with a fellow TA and supervised similar projects of half of the other student groups.</p>
+
+<div class="entry custom-container">
+    <span class="fat-text">TA,</span>
+    <span class="italic-text">TIntroduction to Probability and Statistics, Heidelberg University</span>
+    <span class="gray-italic-text">Winter Semester 2017/18</span>
+</div>
+<p class="entry indented-paragraph">In this role I was responsible for grading the weekly assignments of students taking the class as well as reviewing the subject matter in independently prepared lessons twice a week.</p>
