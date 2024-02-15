@@ -28,7 +28,14 @@ permalink: /cv/
         display: flex;
         align-items: center;
     }
-    
+    .custom-container .fat-text {
+        font-weight: bold;
+    }
+
+    .custom-container .italic-text {
+        font-style: italic;
+    }
+
     .custom-container .fat-text, 
     .custom-container .italic-text {
         margin-right: auto;
