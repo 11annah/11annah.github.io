@@ -25,6 +25,8 @@ permalink: /cv/
 
 <style>
     .custom-container {
+        display: flex;
+        justify-content: flex-start;
         align-items: left;
     }
     .custom-container .fat-text {
