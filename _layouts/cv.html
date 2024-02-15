@@ -17,16 +17,42 @@ layout: default
 
     .custom-title span {
         margin: 0;
-        color: rrgb(95, 36, 36);
+        color: rgb(95, 36, 36);
+        font-size: 24px;
     }
 </style>
+
+
+<style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    .fat-text {
+      font-weight: bold;
+    }
+    .italic-text {
+      font-style: italic;
+    }
+    .gray-text {
+      color: gray;
+    }
+    .right-aligned {
+      text-align: right;
+    }
+    .indented-paragraph {
+      text-indent: 20px;
+    }
+  </style>
 
 
 <article class="page">
 
   <h1>{{ page.title }}</h1>
-
-  <div class="entry">
     {{ content }}
-  </div>
+
 </article>
