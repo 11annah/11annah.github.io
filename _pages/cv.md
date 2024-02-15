@@ -52,11 +52,10 @@ permalink: /cv/
 
 <style>
     .indented-paragraph {
-        padding-left: 40px; /* Adjust the value as needed for full indentation */
         font-size: smaller; /* You can adjust the font size to your preference */
-        display: inline-block;
-        margin-left: 0; /* Set left margin to 0 */
-        margin-right: 0; /* Set right margin to 0 */
+        display: block; /* Change the display property to block */
+        margin: 0; /* Reset margin to 0 */
+        padding-left: 40px; /* Adjust the value as needed for full indentation */
     }
 </style>
 
@@ -75,5 +74,5 @@ permalink: /cv/
     <span class="italic-text">*italic text*</span>
     <span class="gray-italic-text">*gray italic text*</span>
 </div>
-<p class="indented-paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p class="entry indented-paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
