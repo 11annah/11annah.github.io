@@ -56,7 +56,7 @@ permalink: /cv/
         font-size: smaller; /* You can adjust the font size to your preference */
         display: block; /* Change the display property to block */
         margin-top: -7px; 
-        margin-bottom: 10px; 
+        margin-bottom: 15px; 
         padding-left: 40px; /* Adjust the value as needed for full indentation /*
     }
 </style>
