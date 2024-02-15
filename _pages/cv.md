@@ -29,7 +29,7 @@ permalink: /cv/
         display: flex;
         justify-content: flex-start;
         align-items: left;
-        margin-top: 5px;
+        margin-top: 7px;
     }
     .custom-container .fat-text {
         font-weight: bold;
@@ -118,8 +118,16 @@ permalink: /cv/
 </div>
 <p class="entry indented-paragraph">In this role my responsibilities included consulting students and scientists from other fields on their research and participating in ongoing research projects as well as teaching classes for courses offered by the Department of Statistics at Ludwig-Maximilians-Universität München.</p>
 
+
 <div class="entry custom-container">
-    <span class="fat-text">fat text</span>
+    <span class="fat-text">RA, </span>
+    <span class="italic-text">Department of Infectious and Tropical Medicine - LMU Klinikum</span>
+    <span class="gray-italic-text">August 2020 - December 2020</span>
+</div>
+<p class="entry indented-paragraph">My responsibilities consisted of database management and data analysis for several ongoing studies, as well as editing data for visual presentation.</p>
+
+<div class="entry custom-container">
+    <span class="fat-text"> fat text</span>
     <span class="italic-text">italic text</span>
     <span class="gray-italic-text">gray italic text</span>
 </div>
