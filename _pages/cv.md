@@ -135,7 +135,14 @@ permalink: /cv/
 
 <div class="entry custom-container">
     <span class="fat-text">TA,</span>
-    <span class="italic-text">TIntroduction to Probability and Statistics, Heidelberg University</span>
+    <span class="italic-text">Introduction to Probability and Statistics, Heidelberg University</span>
     <span class="gray-italic-text">Winter Semester 2017/18</span>
 </div>
 <p class="entry indented-paragraph">In this role I was responsible for grading the weekly assignments of students taking the class as well as reviewing the subject matter in independently prepared lessons twice a week.</p>
+
+<div class="entry custom-container">
+    <span class="fat-text">Undergraduate Researcher,</span>I
+    <span class="italic-text">University of Ottawa, Canada</span>
+    <span class="gray-italic-text">August 2017 - October 2017</span>
+</div>
+<p class="entry indented-paragraph">During this time I had the great opportunity to assist professor Aaron Smith in his research on Maximal Markovian Couplings, specifically on graphs. Computation of the latter was done in R, allowing me to gain deeper knowledge of the Programming language.</p>
