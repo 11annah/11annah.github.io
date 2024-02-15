@@ -50,15 +50,27 @@ permalink: /cv/
     }
 </style>
 
+<style>
+    .indented-paragraph {
+        text-indent: 30px; /* Adjust the value as needed for full indentation */
+        font-size: smaller; /* You can adjust the font size to your preference */
+    }
+</style>
+
+
+
+
+
 
 <div class="entry custom-title">
     <hr>
-    <span>Your Text Here</span>
+    <span>CV entry</span>
     <hr>
 </div>
-
 <div class="entry custom-container">
     <span class="fat-text">*fat text*</span>
     <span class="italic-text">*italic text*</span>
     <span class="gray-italic-text">*gray italic text*</span>
 </div>
+<p class="entry indented-paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
