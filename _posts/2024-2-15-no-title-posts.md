@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ""
-categories: PhDlife
+categories: PhDlife, Statistics
 ---
 
 Hello World! 🌎
