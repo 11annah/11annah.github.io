@@ -55,7 +55,7 @@ permalink: /cv/
     .indented-paragraph {
         font-size: smaller; /* You can adjust the font size to your preference */
         display: block; /* Change the display property to block */
-        margin: 0; /* Reset margin to 0 */
+        margin-bottom: 20px; 
         padding-left: 40px; /* Adjust the value as needed for full indentation /*
     }
 </style>
@@ -75,18 +75,21 @@ permalink: /cv/
     <span class="italic-text">LMU Munich</span>
     <span class="gray-italic-text">since the summer of 2023</span>
 </div>
+<p class="entry indented-paragraph"></p>
 
 <div class="entry custom-container">
     <span class="fat-text">M.Sc. in Statistics,</span><span>  </span>
     <span class="italic-text">LMU Munich</span>
     <span class="gray-italic-text">2020 – 2022</span>
 </div>
+<p class="entry indented-paragraph"></p>
 
 <div class="entry custom-container">
     <span class="fat-text">B.Sc. in Mathematics,</span><span>  </span>
     <span class="italic-text">Heidelberg University</span>
     <span class="gray-italic-text">2016 – 2020</span>
 </div>
+<p class="entry indented-paragraph"></p>
 
 
 
