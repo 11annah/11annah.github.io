@@ -29,6 +29,7 @@ permalink: /cv/
         display: flex;
         justify-content: flex-start;
         align-items: left;
+        margin-top: 5px;
     }
     .custom-container .fat-text {
         font-weight: bold;
