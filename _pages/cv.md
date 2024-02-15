@@ -20,6 +20,7 @@ permalink: /cv/
         margin: 0;
         color: rgb(95, 36, 36);
         font-size: 24px;
+        font-weight: bold;
     }
 </style>
 
@@ -66,7 +67,36 @@ permalink: /cv/
 
 <div class="entry custom-title">
     <hr>
-    <span>CV entry</span>
+    <span>Education</span>
+    <hr>
+</div>
+<div class="entry custom-container">
+    <span class="fat-text">*PhD student in Statistics,*</span>
+    <span class="italic-text">*LMU Munich*</span>
+    <span class="gray-italic-text">*since the summer of 2023*</span>
+</div>
+
+<div class="entry custom-container">
+    <span class="fat-text">*M.Sc. in Statistics,*</span>
+    <span class="italic-text">*LMU Munich*</span>
+    <span class="gray-italic-text">*2020 – 2022*</span>
+</div>
+
+<div class="entry custom-container">
+    <span class="fat-text">*B.Sc. in Mathematics*</span>
+    <span class="italic-text">*Heidelberg University*</span>
+    <span class="gray-italic-text">*2016 – 2020*</span>
+</div>
+
+
+
+
+
+
+
+<div class="entry custom-title">
+    <hr>
+    <span>Work Experience</span>
     <hr>
 </div>
 <div class="entry custom-container">
@@ -75,4 +105,3 @@ permalink: /cv/
     <span class="gray-italic-text">*gray italic text*</span>
 </div>
 <p class="entry indented-paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
