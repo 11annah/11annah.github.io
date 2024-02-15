@@ -1,0 +1,6 @@
+---
+layout: null
+---
+{
+  "random_image": "{{ site.baseurl }}{% random_image images %}"
+}
