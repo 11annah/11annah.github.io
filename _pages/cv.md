@@ -100,6 +100,20 @@ permalink: /cv/
     <hr>
 </div>
 <div class="entry custom-container">
+    <span class="fat-text">Research Assistant,</span>
+    <span class="italic-text"><a href="https://www.en.statistik.uni-muenchen.de/index.html">Department of Statistics - LMU</a></span>
+    <span class="gray-italic-text">Since June 2023</span>
+</div>
+<p class="entry indented-paragraph">Most recently, I am additionally affiliated at the Munich Center of Machine Learning (MCML), and The Institute for Medical Information Processing, Biometry, and Epidemiology (IBE).</p>
+
+<div class="entry custom-container">
+    <span class="fat-text">RA and TA,</span>
+    <span class="italic-text"><a href="https://www.en.stablab.stat.uni-muenchen.de/consulting/index.html">Statistical Consulting Unit StaBLab</a></span>
+    <span class="gray-italic-text">February 2021-May 2022</span>
+</div>
+<p class="entry indented-paragraph">In this role my responsibilities included consulting students and scientists from other fields on their research and participating in ongoing research projects as well as teaching classes for courses offered by the Department of Statistics at Ludwig-Maximilians-Universität München.</p>
+
+<div class="entry custom-container">
     <span class="fat-text">fat text</span>
     <span class="italic-text">italic text</span>
     <span class="gray-italic-text">gray italic text</span>
