@@ -33,15 +33,18 @@ permalink: /cv/
     }
     .custom-container .fat-text {
         font-weight: bold;
+        font-size: 14px;
     }
 
     .custom-container .italic-text {
         font-style: italic;
+        font-size: 14px;
     }
 
     .custom-container .fat-text, 
     .custom-container .italic-text {
         display: inline-block;
+        font-size: 14px;
     }
 
     .custom-container .gray-italic-text {
@@ -142,7 +145,7 @@ permalink: /cv/
 
 <div class="entry custom-container">
     <span class="fat-text">Undergraduate Researcher,</span>
-    <span class="italic-text">University of Ottawa, Canada</span>
+    <span class="italic-text">University of Ottawa</span>
     <span class="gray-italic-text">August 2017 - October 2017</span>
 </div>
 <p class="entry indented-paragraph">During this time I had the great opportunity to assist professor Aaron Smith in his research on Maximal Markovian Couplings, specifically on graphs. Computation of the latter was done in R, allowing me to gain deeper knowledge of the Programming language.</p>
