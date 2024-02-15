@@ -9,4 +9,6 @@ Its goal of is to (eventually) allow users to compute all quantities from the pa
 
 Currently, this package is still in mid-development; but you can install the development version from the [`CompInt` GitHub repository](https://github.com/11annah/CompInt/tree/main?tab=readme-ov-file#compint).
 
-More information and updates will be coming soon!
+<div style="text-align:center">
+    <span style="font-size:larger; font-style: italic;">More information and updates will be coming soon!</span>
+</div>
