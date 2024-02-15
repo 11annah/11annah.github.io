@@ -12,13 +12,13 @@ permalink: /cv/
     .custom-title hr {
         flex: 1;
         border: none;
-        border-top: 2px solid rgb(95, 36, 36);
+        border-top: 2px solid rgb(124, 136, 145);
         margin: 0 10px;
     }
 
     .custom-title span {
         margin: 0;
-        color: rgb(95, 36, 36);
+        color: rgb(124, 136, 145);
         font-size: 24px;
         font-weight: bold;
     }
@@ -58,7 +58,7 @@ permalink: /cv/
 <style>
     .indented-paragraph {
         font-size: 14px; /* You can adjust the font size to your preference */
-        display: block; /* Change the display property to block */
+        display: block-inline; /* Change the display property to block */
         margin-top: -7px; 
         margin-bottom: 15px; 
         padding-left: 40px; /* Adjust the value as needed for full indentation /*
