@@ -54,6 +54,7 @@ permalink: /cv/
     .indented-paragraph {
         padding-left: 40px; /* Adjust the value as needed for full indentation */
         font-size: smaller; /* You can adjust the font size to your preference */
+        display: block;
     }
 </style>
 
