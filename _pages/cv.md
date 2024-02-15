@@ -55,6 +55,8 @@ permalink: /cv/
         padding-left: 40px; /* Adjust the value as needed for full indentation */
         font-size: smaller; /* You can adjust the font size to your preference */
         display: inline-block;
+        margin-left: 0; /* Set left margin to 0 */
+        margin-right: 0; /* Set right margin to 0 */
     }
 </style>
 
