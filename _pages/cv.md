@@ -38,10 +38,11 @@ permalink: /cv/
     .custom-container .fat-text, 
     .custom-container .italic-text {
         display: inline-block;
-        margin-right: auto;
     }
 
     .custom-container .gray-italic-text {
+        display: inline-block; /* Make it sit next to other elements */
+        margin-left: auto;
         font-style: italic;
         color: gray;
     }
