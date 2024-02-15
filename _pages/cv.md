@@ -60,7 +60,7 @@ permalink: /cv/
         font-size: 14px; /* You can adjust the font size to your preference */
         display: block;
         margin: -7px auto 15px;
-        width: 80%; /* Adjust the width as needed */
+        width: 100%; /* Adjust the width as needed */
         text-align: justify; /* Align text to justify */
         padding: 0 20px; 
     }
