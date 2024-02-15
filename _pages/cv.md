@@ -33,12 +33,12 @@ permalink: /cv/
     }
     .custom-container .fat-text {
         font-weight: bold;
-        font-size: 20px;
+        font-size: 16px;
     }
 
     .custom-container .italic-text {
         font-style: italic;
-        font-size: 20px;
+        font-size: 16px;
     }
 
     .custom-container .fat-text, 
@@ -51,13 +51,13 @@ permalink: /cv/
         margin-left: auto;
         font-style: italic;
         color: gray;
-        font-size: 20px;
+        font-size: 16px;
     }
 </style>
 
 <style>
     .indented-paragraph {
-        font-size: 16px; /* You can adjust the font size to your preference */
+        font-size: 10px; /* You can adjust the font size to your preference */
         display: block; /* Change the display property to block */
         margin-top: -7px; 
         margin-bottom: 15px; 
