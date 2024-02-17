@@ -144,8 +144,8 @@ function evaluate_key()
   else
    {document.getElementById("result").innerHTML = "";
     document.getElementById("list").style.visibility="hidden";
-    search_site();
    }
+   search_site();
 }
 
 function goto_result(url)
