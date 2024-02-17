@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Search
+title: Search this website
 permalink: /sitesearch/
 ---
 
 <div id="search-container">
-    <input type="text" id="search-input" placeholder="Search ..." onkeydown="evaluate_key()">
+    <input type="text" id="search-input" placeholder="Search ..." onkeypress="evaluate_key()">
 </div>
 <div>
 <br>
