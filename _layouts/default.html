@@ -12,10 +12,10 @@
     <meta name="theme-color" content="#000000">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/favicon-32x32.png">
     {% include analytics_head.html %}
-    <script src="{{ site.baseurl }}/assets/random_image.js"></script>
+    <script src="{{ site.baseurl }}/assets/search.js"></script>
   </head>
 
-  <body>
+  <body onload="onload_page()">
     <div id="bar"></div>
     <div class="wrapper-container">
       <div class="wrapper-masthead">
@@ -37,6 +37,7 @@
               <a href="{{ site.baseurl }}/blog/index.html">Updates</a>
               <!-- <a href="{{ site.baseurl }}/getting-started">Getting Started</a> -->
               <a href="{{ site.baseurl }}/search">Search</a>
+              <a href="{{ site.baseurl }}/sitesearch">Site Search</a>
               <!--<a href="{{ site.baseurl }}/archive">Archive</a> -->
             </nav>
           </header>
