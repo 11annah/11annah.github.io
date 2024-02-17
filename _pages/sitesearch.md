@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Site Search
+title: Search
 permalink: /sitesearch/
 ---
 
