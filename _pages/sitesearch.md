@@ -5,7 +5,7 @@ permalink: /sitesearch/
 ---
 
 <div id="search-container">
-    <input type="text" id="search-input" placeholder="Search ..." oninput="evaluate_key()">
+    <input type="text" id="search-input" placeholder="Search ..." onchange="evaluate_key()">
 </div>
 <div>
 <br>
