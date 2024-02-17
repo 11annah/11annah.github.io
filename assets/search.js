@@ -144,6 +144,7 @@ function evaluate_key()
   else
    {document.getElementById("result").innerHTML = "";
     document.getElementById("list").style.visibility="hidden";
+    search_site();
    }
 }
 
@@ -151,10 +152,3 @@ function goto_result(url)
 {window.open(url, "_self");
 }
 
-function test()
-{var s;
-/*<div>
-Das ist <span style="background-color:yellow;">ein</span> Test.
-</div>
-*/
-}

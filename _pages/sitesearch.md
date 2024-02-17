@@ -6,7 +6,6 @@ permalink: /sitesearch/
 
 <div id="search-container">
     <input type="text" id="search-input" placeholder="Search ..." onkeydown="evaluate_key()">
-<button onclick="search_site()" >&#128269;</button>
 </div>
 <div>
 <br>
