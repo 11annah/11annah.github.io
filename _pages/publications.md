@@ -11,6 +11,9 @@ permalink: /publications/
 </style>
 
 <ul class="publication-list" style="font-size: smaller;">
+<li> 
+Hannah Schulz-Kümpel, Sebastian Fischer, Thomas Nagler, Anne-Laure Boulesteix, Bernd Bischl, & Roman Hornung. (2024). <em>Constructing Confidence Intervals for 'the' Generalization Error – a Comprehensive Benchmark Study</em>. 	arXiv:2409.18836 [stat.ML]. <a href="https://arxiv.org/abs/2409.18836">https://doi.org/10.48550/arXiv.2409.18836</a></li>
+
 <li> Kümpel, H., & Hoffmann, S. (2022). <em>A formal framework for generalized reporting methods in
 parametric settings</em>. arXiv:2211.02621 [stat.ME]. <a href="https://arxiv.org/abs/2211.02621">doi:10.48550/ARXIV.2211.02621</a></li>
 

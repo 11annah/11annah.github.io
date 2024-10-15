@@ -79,7 +79,7 @@ permalink: /cv/
 <div class="entry custom-container">
     <span class="fat-text">PhD student in Statistics,</span><span>  </span>
     <span class="italic-text">LMU Munich</span>
-    <span class="gray-italic-text">since the summer of 2023</span>
+    <span class="gray-italic-text">since the summer of 2022</span>
 </div>
 <p class="entry indented-paragraph"></p>
 
@@ -111,7 +111,7 @@ permalink: /cv/
 <div class="entry custom-container">
     <span class="fat-text">Research Assistant,</span>
     <span class="italic-text"><a href="https://www.en.statistik.uni-muenchen.de/index.html">Department of Statistics - LMU</a></span>
-    <span class="gray-italic-text">Since June 2023</span>
+    <span class="gray-italic-text">Since June 2022</span>
 </div>
 <p class="entry indented-paragraph">Most recently, I am additionally affiliated at the Munich Center of Machine Learning (MCML), and The Institute for Medical Information Processing, Biometry, and Epidemiology (IBE).</p>
 
