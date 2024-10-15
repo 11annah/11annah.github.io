@@ -5,7 +5,7 @@ layout: default
 
 Hi there👋
 
-I'm Hannah, a second year <a href="https://zuseschoolrelai.de">relAI</a> PhD student in Statistics at LMU Munich and also affiliated with the <a href="https://mcml.ai">Munich Center for Machine Learning (MCML)</a>
+I'm Hannah, a second year <a href="https://zuseschoolrelai.de">relAI</a> PhD student in Statistics at LMU Munich and also affiliated with the <a href="https://mcml.ai">Munich Center for Machine Learning (MCML)</a>.
 
 <!--and also affiliated with the Munich <a href="https://mcml.ai">Center for Machine Learning (MCML)</a> and <a href="https://www.ibe.med.uni-muenchen.de/lehrstuehle/ls-mansmann/mitarbeiter/kuempel_hannah/index.html">The Institute for Medical Information Processing, Biometry, and Epidemiology (IBE)</a>, which is fitting because I am super interested in both Machine Learning (ML) (some people would say AI, but I do not like that term) and Biostatistics...
 To be more specific, my research interests could be adequately summarized as Bayesian Inference, interpretable ML, meta-analysis & reporting methods, and open science.-->
